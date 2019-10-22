@@ -1,0 +1,15 @@
+{
+    "peopleListResult": {
+        "totCnt": 1,
+        "peopleList": [
+            {
+                "peopleCd": "10066899",
+                "peopleNm": "조인성",
+                "peopleNmEn": "ZO In-sung",
+                "repRoleNm": "배우",
+                "filmoNames": "안시성|더 킹|쌍화점|비열한 거리|남남북녀|클래식|마들렌|화장실, 어디에요?"
+            }
+        ],
+        "source": "영화진흥위원회"
+    }
+}

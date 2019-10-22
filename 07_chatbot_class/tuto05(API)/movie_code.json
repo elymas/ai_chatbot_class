@@ -1,0 +1,36 @@
+{
+    "movieListResult": {
+        "totCnt": 1,
+        "source": "영화진흥위원회",
+        "movieList": [
+            {
+                "movieCd": "20124079",
+                "movieNm": "광해, 왕이 된 남자",
+                "movieNmEn": "Masquerade",
+                "prdtYear": "2012",
+                "openDt": "20120913",
+                "typeNm": "장편",
+                "prdtStatNm": "개봉",
+                "nationAlt": "한국",
+                "genreAlt": "사극,드라마",
+                "repNationNm": "한국",
+                "repGenreNm": "사극",
+                "directors": [
+                    {
+                        "peopleNm": "추창민"
+                    }
+                ],
+                "companys": [
+                    {
+                        "companyCd": "20100540",
+                        "companyNm": "리얼라이즈픽쳐스(주)"
+                    },
+                    {
+                        "companyCd": "20110854",
+                        "companyNm": "씨제이이앤엠(주)"
+                    }
+                ]
+            }
+        ]
+    }
+}

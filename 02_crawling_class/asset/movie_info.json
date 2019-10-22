@@ -1,0 +1,125 @@
+{
+    "movieInfoResult": {
+        "movieInfo": {
+            "movieCd": "20183867",
+            "movieNm": "알라딘",
+            "movieNmEn": "Aladdin",
+            "movieNmOg": "",
+            "showTm": "127",
+            "prdtYear": "2018",
+            "openDt": "20190523",
+            "prdtStatNm": "개봉",
+            "typeNm": "장편",
+            "nations": [
+                {
+                    "nationNm": "미국"
+                }
+            ],
+            "genres": [
+                {
+                    "genreNm": "어드벤처"
+                },
+                {
+                    "genreNm": "가족"
+                },
+                {
+                    "genreNm": "판타지"
+                }
+            ],
+            "directors": [
+                {
+                    "peopleNm": "가이 리치",
+                    "peopleNmEn": "Guy Ritchie"
+                }
+            ],
+            "actors": [
+                {
+                    "peopleNm": "메나 마수드",
+                    "peopleNmEn": "Mena Massoud",
+                    "cast": "",
+                    "castEn": ""
+                },
+                {
+                    "peopleNm": "윌 스미스",
+                    "peopleNmEn": "Will Smith",
+                    "cast": "",
+                    "castEn": ""
+                },
+                {
+                    "peopleNm": "나오미 스콧",
+                    "peopleNmEn": "Naomi Scott",
+                    "cast": "",
+                    "castEn": ""
+                }
+            ],
+            "showTypes": [
+                {
+                    "showTypeGroupNm": "2D",
+                    "showTypeNm": "디지털"
+                },
+                {
+                    "showTypeGroupNm": "2D",
+                    "showTypeNm": "디지털더빙"
+                },
+                {
+                    "showTypeGroupNm": "3D",
+                    "showTypeNm": "3D 디지털"
+                },
+                {
+                    "showTypeGroupNm": "3D",
+                    "showTypeNm": "3D 더빙"
+                },
+                {
+                    "showTypeGroupNm": "4D",
+                    "showTypeNm": "4D더빙"
+                },
+                {
+                    "showTypeGroupNm": "4D",
+                    "showTypeNm": "4D"
+                },
+                {
+                    "showTypeGroupNm": "IMAX",
+                    "showTypeNm": "IMAX"
+                },
+                {
+                    "showTypeGroupNm": "IMAX",
+                    "showTypeNm": "IMAX 더빙"
+                },
+                {
+                    "showTypeGroupNm": "IMAX",
+                    "showTypeNm": "IMAX 3D"
+                },
+                {
+                    "showTypeGroupNm": "IMAX",
+                    "showTypeNm": "IMAX 3D 더빙"
+                }
+            ],
+            "companys": [
+                {
+                    "companyCd": "20161801",
+                    "companyNm": "월트디즈니컴퍼니코리아 유한책임회사",
+                    "companyNmEn": "The Walt Disney Company Korea",
+                    "companyPartNm": "배급사"
+                },
+                {
+                    "companyCd": "20161801",
+                    "companyNm": "월트디즈니컴퍼니코리아 유한책임회사",
+                    "companyNmEn": "The Walt Disney Company Korea",
+                    "companyPartNm": "수입사"
+                }
+            ],
+            "audits": [
+                {
+                    "auditNo": "2019-MF00816",
+                    "watchGradeNm": "전체관람가"
+                },
+                {
+                    "auditNo": "2019-MF00865 ",
+                    "watchGradeNm": "전체관람가"
+                }
+            ],
+            "staffs": []
+        },
+        "source": "영화진흥위원회"
+    }
+}

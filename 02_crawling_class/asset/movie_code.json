@@ -1,0 +1,201 @@
+{
+    "movieListResult": {
+        "totCnt": 13,
+        "source": "영화진흥위원회",
+        "movieList": [
+            {
+                "movieCd": "20193279",
+                "movieNm": "알라딘 2",
+                "movieNmEn": "Alad'2",
+                "prdtYear": "2018",
+                "openDt": "",
+                "typeNm": "장편",
+                "prdtStatNm": "기타",
+                "nationAlt": "프랑스",
+                "genreAlt": "코미디,드라마",
+                "repNationNm": "프랑스",
+                "repGenreNm": "코미디",
+                "directors": [
+                    {
+                        "peopleNm": "리오넬 스테케티"
+                    }
+                ],
+                "companys": []
+            },
+            {
+                "movieCd": "19920384",
+                "movieNm": "알라딘",
+                "movieNmEn": "Aladdin",
+                "prdtYear": "1992",
+                "openDt": "19921218",
+                "typeNm": "장편",
+                "prdtStatNm": "개봉",
+                "nationAlt": "미국",
+                "genreAlt": "애니메이션,가족",
+                "repNationNm": "미국",
+                "repGenreNm": "애니메이션",
+                "directors": [
+                    {
+                        "peopleNm": "데이빗 드웨이티스"
+                    }
+                ],
+                "companys": []
+            },
+            {
+                "movieCd": "20135974",
+                "movieNm": "알라딘",
+                "movieNmEn": "Aladdin",
+                "prdtYear": "1992",
+                "openDt": "19930703",
+                "typeNm": "장편",
+                "prdtStatNm": "개봉",
+                "nationAlt": "미국",
+                "genreAlt": "드라마,뮤지컬,어드벤처,가족,판타지",
+                "repNationNm": "미국",
+                "repGenreNm": "드라마",
+                "directors": [
+                    {
+                        "peopleNm": "존 머스커"
+                    },
+                    {
+                        "peopleNm": "론 클레멘츠"
+                    }
+                ],
+                "companys": []
+            },
+            {
+                "movieCd": "20183867",
+                "movieNm": "알라딘",
+                "movieNmEn": "Aladdin",
+                "prdtYear": "2018",
+                "openDt": "20190523",
+                "typeNm": "장편",
+                "prdtStatNm": "개봉",
+                "nationAlt": "미국",
+                "genreAlt": "어드벤처,가족,판타지",
+                "repNationNm": "미국",
+                "repGenreNm": "어드벤처",
+                "directors": [
+                    {
+                        "peopleNm": "가이 리치"
+                    }
+                ],
+                "companys": []
+            },
+            {
+                "movieCd": "20165828",
+                "movieNm": "알라딘 7인의 무법자",
+                "movieNmEn": "The New Adventures of Aladdin",
+                "prdtYear": "2015",
+                "openDt": "",
+                "typeNm": "장편",
+                "prdtStatNm": "기타",
+                "nationAlt": "프랑스,벨기에",
+                "genreAlt": "코미디",
+                "repNationNm": "프랑스",
+                "repGenreNm": "코미디",
+                "directors": [
+                    {
+                        "peopleNm": "아서 벤자쿠엔"
+                    }
+                ],
+                "companys": []
+            },
+            {
+                "movieCd": "20152211",
+                "movieNm": "알라딘과 죽음의 램프",
+                "movieNmEn": "Aladdin and the Death Lamp",
+                "prdtYear": "2012",
+                "openDt": "",
+                "typeNm": "장편",
+                "prdtStatNm": "기타",
+                "nationAlt": "미국,캐나다",
+                "genreAlt": "어드벤처,판타지,공포(호러)",
+                "repNationNm": "미국",
+                "repGenreNm": "어드벤처",
+                "directors": [
+                    {
+                        "peopleNm": "마리오 아조파디"
+                    }
+                ],
+                "companys": []
+            },
+            {
+                "movieCd": "20149454",
+                "movieNm": "알라딘",
+                "movieNmEn": "Aladin",
+                "prdtYear": "2009",
+                "openDt": "",
+                "typeNm": "장편",
+                "prdtStatNm": "기타",
+                "nationAlt": "인도",
+                "genreAlt": "어드벤처",
+                "repNationNm": "인도",
+                "repGenreNm": "어드벤처",
+                "directors": [
+                    {
+                        "peopleNm": "수조이 고쉬"
+                    }
+                ],
+                "companys": []
+            },
+            {
+                "movieCd": "20149439",
+                "movieNm": "알라딘 3 - 알라딘과 도둑의 왕",
+                "movieNmEn": "Aladdin and the King of Thieves",
+                "prdtYear": "1996",
+                "openDt": "",
+                "typeNm": "장편",
+                "prdtStatNm": "기타",
+                "nationAlt": "미국",
+                "genreAlt": "어드벤처,애니메이션",
+                "repNationNm": "미국",
+                "repGenreNm": "어드벤처",
+                "directors": [
+                    {
+                        "peopleNm": "태드 스톤스"
+                    }
+                ],
+                "companys": []
+            },
+            {
+                "movieCd": "19978676",
+                "movieNm": "알라딘",
+                "movieNmEn": "A Kid In Aladdin's Palace",
+                "prdtYear": "1997",
+                "openDt": "",
+                "typeNm": "장편",
+                "prdtStatNm": "기타",
+                "nationAlt": "미국",
+                "genreAlt": "어드벤처,판타지",
+                "repNationNm": "미국",
+                "repGenreNm": "어드벤처",
+                "directors": [
+                    {
+                        "peopleNm": "로버트 L. 레비"
+                    }
+                ],
+                "companys": []
+            },
+            {
+                "movieCd": "19618055",
+                "movieNm": "알라딘의 마술램프",
+                "movieNmEn": "Aladdin and His Magic Lamp",
+                "prdtYear": "1970",
+                "openDt": "19730222",
+                "typeNm": "장편",
+                "prdtStatNm": "개봉",
+                "nationAlt": "프랑스",
+                "genreAlt": "판타지,애니메이션",
+                "repNationNm": "프랑스",
+                "repGenreNm": "판타지",
+                "directors": [
+                    {
+                        "peopleNm": "장 이마주"
+                    }
+                ],
+                "companys": []
+            }
+        ]
+    }
+}
