@@ -1,7 +1,7 @@
 ## 인공지능 챗봇과 딥러닝 자연어 처리
 
 ![Python 3.7.4](https://img.shields.io/badge/Python-3.7.4-blue.svg?style=plastic)
-![TensorFlow 2.0.0](https://img.shields.io/badge/TensorFlow-2.0.0a%20%7C%202.0.0b%20%7C%202.0.0-orange.svg?style=plastic)
+![TensorFlow 2.0.0](https://img.shields.io/badge/TensorFlow-2.0.0-orange.svg?style=plastic)
 
 - 교육기간 : 2019년 8월 29일부터 2019년 11월 15일까지
 - 교육주관 : SBA 아카데미 &amp; (주)한국인공지능 아카데미
